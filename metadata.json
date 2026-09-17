@@ -1,0 +1,6 @@
+{
+  "name": "AI KUMBH — 3D Intelligent Crowd Management System",
+  "description": "Conceptual AI + IoT crowd-management and public-safety platform designed for large-scale events like Kumbh Mela. Sense. Predict. Redirect. Protect.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
